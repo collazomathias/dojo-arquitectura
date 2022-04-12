@@ -1,7 +1,7 @@
-package com.dojoarquitectura.controllers;
+package com.dojoarquitectura.book.infrastructure;
 
-import com.dojoarquitectura.models.BookModel;
-import com.dojoarquitectura.services.BookService;
+import com.dojoarquitectura.book.application.BookService;
+import com.dojoarquitectura.book.domain.BookModel;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;

@@ -1,9 +1,9 @@
-package com.dojoarquitectura.repositories;
+package com.dojoarquitectura.book.infrastructure;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.dojoarquitectura.models.BookModel;
+import com.dojoarquitectura.book.domain.BookModel;
 
 import org.springframework.stereotype.Repository;
 

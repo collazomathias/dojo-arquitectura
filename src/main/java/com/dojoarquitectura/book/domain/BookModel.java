@@ -1,4 +1,4 @@
-package com.dojoarquitectura.models;
+package com.dojoarquitectura.book.domain;
 
 import java.util.UUID;
 

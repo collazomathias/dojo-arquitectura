@@ -1,7 +1,7 @@
-package com.dojoarquitectura.services;
+package com.dojoarquitectura.book.application;
 
-import com.dojoarquitectura.models.BookModel;
-import com.dojoarquitectura.repositories.BookRepository;
+import com.dojoarquitectura.book.domain.BookModel;
+import com.dojoarquitectura.book.infrastructure.BookRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
